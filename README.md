@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thura Tun | @ThuraTunScibotics.
 - 👀 I’m interested in Computer Vision and Artificial Intelligence.
-- 🌱 I’m currently learning the theories and concept of Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate on innovation of real-world projects using cutting edge technologies.
+- 🌱 I’m currently learning the theories and concept of Computer Vision, Machine Learning and Deep Learning.
+- 💞️ I’m looking to collaborate on innovation of real-world Computer Vision and ML projects.
 - 📫 How to reach me - thuratun.engr@gmail.com
 
 <!---
